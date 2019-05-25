@@ -2,7 +2,7 @@
 # Convolutional Neural Networks
 ## Project: Write an Algorithm for a Dog Identification App
 
-### Problem Summary:
+### Project Summary:
 - Build a pipeline that can be used within a web or mobile app to process real-world, user-supplied images. Given an image of a dog, the algorithm will identify an estimate of the canine’s breed.
 - Detect humans face: <br/> **Haar Feature-based Cascades Classifiers** by OpenCV’s implement and **HoG Face Detector** implemented by Dlib.
 - Detect dogs: Use a **pre-trained ResNet-50 model** to detect dogs in images. The model come with weights that have been trained on imageNet. 
